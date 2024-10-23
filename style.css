@@ -1,0 +1,125 @@
+
+#container {
+    width: 800px;
+    height: 2600px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+}
+#container-1 {
+    width: 300px;
+    background-color: #B7B7B7;
+}
+#container-2 {
+    width: 500px;
+    background-color: #F5F5F7;
+    border: solid;
+    border-color: #B7B7B7;
+}
+polka {
+    background-color: #fefefe;
+    background-image: radial-gradient(#B7B7B7.2px, #fefefe 1.2px);
+    background-size: 24px 24px;
+  }
+  .zahidimg {
+    
+    border: solid white 10px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.name{
+    text-align: center;
+    color: #F5F5F7;
+    font-size: 30px;
+}
+.icons {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    margin-left: 25px;
+}
+.linkedin {
+    color: #705C53;
+    display: grid;
+    grid-template-columns: 50px 100px;
+}
+.email {
+    color: #705C53;
+    display: grid;
+    grid-template-columns: 50px 150px;
+}
+.location {
+    color: #705C53;
+    display: grid;
+    grid-template-columns: 40px 300px;
+    font-size: 15px;
+}
+.address {
+    margin-left: 10px;
+    color: #705C53
+}
+.summary {
+    background-color:#F5F5F7;
+    color:#705C53;
+    font-size: 15px;
+    text-align: justify;
+    margin: 10px;
+}
+.name1 {
+    width: 480px;
+    height: 20px;
+    border: solid 10px #705C53;
+    background-color: #705C53;
+    color: #F5F5F7;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.spc {
+    display: grid;
+    grid-template-columns: 100px 400px;
+}
+.spcsummary {
+    width: 480px;
+    padding-left: 10px;
+}
+.size {
+    font-size: 20px;
+    color: #705C53;
+    margin-left: 10px;
+}
+.center {
+    margin-left: 50px;
+    border-radius: 5%;
+    border: 5px solid #705C53;
+}
+.infra {
+    margin-left: 10px;
+    color: #705C53;
+}
+.bar {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 280px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: #705C53;
+}
+.bar2 {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: #F5F5F7;
+    font-size: 12px;
+    text-align: center;
+}
+.srmcc {
+    color: #705C53;
+    display: grid;
+    grid-template-columns: 100px 350px;
+    font-size: 15px;
+}
+#myBtn {
+    background-color: #705C53;
+    color: #F5F5F7;
+}
